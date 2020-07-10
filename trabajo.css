@@ -1,0 +1,52 @@
+*{
+font-family: 'Dosis', sans-serif;
+}
+.cabezera{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 1em;
+}
+.navv{
+    font-size: 20px;
+    background-color: plum;
+    margin-top: 0;
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.menulink{
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(48, 25, 24);
+    transition: 1s;
+}
+.menulink:hover{
+    background-color: crimson;
+}
+.content{
+    background-color: salmon;
+    padding: 4em;
+}
+
+.content2{
+    padding: 1em;
+    background-color: silver;
+    text-align: center;
+}
+
+.box-rotate{
+    text-align: center;
+    color: brown;
+}
+.imagen {
+    text-align: center;
+}
+
+.content3 {
+    padding: 30em;
+    background-color: silver;
+}
